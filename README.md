@@ -16,7 +16,7 @@ vpn4in1组件：
 =======
 安装方式：
 
-        git clone https://github.com/crazw/vpn4in1.git
+        git clone https://github.com/Mxturl/vpn4in1.git
       
         cd vpn4in1/
       
